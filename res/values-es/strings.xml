@@ -2,10 +2,10 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
-    <string name="Button_Size_">"Tamaño botones:"</string>
-    <string name="Button_Margin_">"Margen botones:"</string>
+    <string name="Stick_Size_">"Tamaño del pad:"</string>
+    <string name="Stick_Margin_">"Ubicación del pad:"</string>
+    <string name="Button_Size_">"Tamaño de botones:"</string>
+    <string name="Button_Margin_">"Margen de botones:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
@@ -309,7 +309,7 @@
     <string name="Win_by_3_points_in_a_CTF_game_">"Gana por 3 puntos en CLB."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Marca 3 puntos en una sola partida de CLB."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Gana con 2.500 puntos en Supervivencia."</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Sobrevive en Supervivencia in ganar."</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Sobrevive en Supervivencia sin ganar."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Gana por 8 goles en un partido de Fútbol."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Marca 3 goles en un solo partido de Fútbol."</string>
     <string name="Total_Domination">"Dominación total"</string>
@@ -530,7 +530,7 @@
     <string name="DOMINATION">"DOMINACIÓN"</string>
     <string name="DOM_Domination">"Domina en Dominación"</string>
     <string name="DOM_Hat_Trick">"Triplete en Dominación"</string>
-    <string name="Win_by_50_points_in_a_DOM_game_">Gana por 50 puntos en una partida de Dominación."</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"Gana por 50 puntos en una partida de Dominación."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Consigue 33 puntos en una sola partida de Dominación."</string>
     <string name="Win_a_Domination_Game">"Gana una partida de Dominación"</string>
     <string name="Select_Team">"Seleccionar Equipo"</string>
@@ -640,7 +640,7 @@
     <string name="Account_In_Use_">"La cuenta está en uso"</string>
     <string name="Cannot_Join_Arena_">"No te puedes unir a la Arena "</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Si sales, ¡te desconectarás de la partida actual!"</string>
-    <string name="raindrops_">"gotas de lluvia "</string>
+    <string name="raindrops_">"gotas de lluvia"</string>
     <string name="Raindrop_Collector">"Coleccionista de Gotas de Lluvia"</string>
     <string name="Raindrop_Hoarder">"Acaparador de Gotas de Lluvia"</string>
     <string name="Raindrop_Mogul">"Magnate de Gotas de Lluvia"</string>
@@ -648,7 +648,7 @@
     <string name="Collect_5_000_raindrops_">"Recoge 5.000 gotas de lluvia."</string>
     <string name="Collect_10_000_raindrops_">"Recoge 10.000 gotas de lluvia."</string>
     <string name="Copy_Message">"Copiar Mensaje"</string>
-    <string name="Copied_to_clipboard_">"Copiado al portapapeles "</string>
+    <string name="Copied_to_clipboard_">"Copiado al portapapeles"</string>
     <string name="COPY_NAME">"COPIAR NOMBRE"</string>
     <string name="Challenge_Sent">"Reto enviado"</string>
     <string name="_1v1_Challenge_">"¡Reto 1vs1!"</string>
@@ -703,7 +703,7 @@
     <string name="banned_until">"Baneado hasta"</string>
     <string name="Note_Collector">"Coleccionista de Notas"</string>
     <string name="Note_Hoarder">"Acaparador de Notas"</string>
-    <string name="Note_Mogul">Magnate de Notas"</string>
+    <string name="Note_Mogul">"Magnate de Notas"</string>
     <string name="Collect_1_000_notes_">"Recoge 1.000 notas."</string>
     <string name="Collect_5_000_notes_">"Recoge 5.000 notas."</string>
     <string name="Collect_10_000_notes_">"Recoge 10.000 notas."</string>
@@ -762,7 +762,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous necesita permisos de ubicación para encontrar dispositivos Bluetooth cercanos."</string>
     <string name="FFA_ULTRA">"TCT ULTRA"</string>
     <string name="FFAU">"TCTU"</string>
-    <string name="_in_a_FFAU_Game">" en una partida de TCT ULTRA"</string>
+    <string name="_in_a_FFAU_Game">"en una partida de TCT ULTRA"</string>
 
     <string name="BANNED_PLAYERS">"JUGADORES BANEADOS"</string>
     <string name="MAIL">"CORREO"</string>
